@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "image": "/header-1.jpg",
+        "brand": "Villa",
+        "name": "Villa",
+        "desc": "Un destino encantador con vistas impresionantes y una atmósfera tranquila, ideal para una escapada relajante.",
+        "descripcion": "Descripción detallada de Villa",
+        "link": "https://www.example.com/villa",
+        "duracion": "3 días",
+        "grupoMaximo": 10,
+        "ubicacion": "Villa del Mar",
+        "precio": 1500
+    },
+    {
+        "id": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Finca.jpg",  
+        "brand": "Villa Palma",
+        "name": "Villa Palma",
+        "desc": "Una hermosa villa rodeada de naturaleza, con un ambiente acogedor y un gran lugar para descansar.",
+        "descripcion": "Descripción detallada de Villa Palma",
+        "link": "https://www.example.com/villapalma",
+        "duracion": "2 días",
+        "grupoMaximo": 8,
+        "ubicacion": "Villa Palma, Montaña",
+        "precio": 1300
+    },
+    {
+        "id": 3,
+        "image": "https://fincahotelarrayanes.com/wp-content/uploads/2016/01/arrayanes98.jpg",
+        "brand": "Estadero",
+        "name": "Estadero La Finca",
+        "desc": "Un estadero pintoresco con amplios espacios verdes y una gran oferta de actividades al aire libre.",
+        "descripcion": "Descripción detallada de Estadero La Finca",
+        "link": "https://www.example.com/estaderolafinca",
+        "duracion": "4 días",
+        "grupoMaximo": 15,
+        "ubicacion": "Finca La Cumbre",
+        "precio": 2000
+    },
+    {
+        "id": 4,
+        "image": "https://conceptodefinicion.de/wp-content/uploads/2016/02/Quebrada.jpg",
+        "brand": "Los Aguacates",
+        "name": "Los Aguacates",
+        "desc": "Un lugar único con un paisaje impresionante, perfecto para aquellos que buscan aventura y naturaleza.",
+        "descripcion": "Descripción detallada de Los Aguacates",
+        "link": "https://www.example.com/losaguacates",
+        "duracion": "1 día",
+        "grupoMaximo": 5,
+        "ubicacion": "Quebrada de Los Aguacates",
+        "precio": 500
+    },
+    {
+        "id": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/87/72/da/piscina-pefecta-para.jpg",
+        "brand": "Piscina Don Santiago",
+        "name": "Piscina Don Santiago",
+        "desc": "Un lugar relajante con una piscina espectacular, ideal para pasar el día disfrutando del sol.",
+        "descripcion": "Descripción detallada de Piscina Don Santiago",
+        "link": "https://www.example.com/piscinadon",
+        "duracion": "1 día",
+        "grupoMaximo": 6,
+        "ubicacion": "Parque Central",
+        "precio": 800
+    },
+    {
+        "id": 6,
+        "image": "https://images.ctfassets.net/gkhyeghj07ak/1A13gErov6u5MTJEXdcW1v/b9716245e55947315034b155ee26e2d8/Parque_El_Bagre.jpg",
+        "brand": "Parque Confama",
+        "name": "Parque Confama",
+        "desc": "Un parque amplio y verde con muchas actividades recreativas, perfecto para un día en familia.",
+        "descripcion": "Descripción detallada de Parque Confama",
+        "link": "https://www.example.com/parqueconfama",
+        "duracion": "1 día",
+        "grupoMaximo": 20,
+        "ubicacion": "Confama City",
+        "precio": 1000
+    }
+]
