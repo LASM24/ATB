@@ -4,7 +4,7 @@ import React, { useEffect } from "react"
 import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 import { Plane, Heart, Globe, Users } from "lucide-react"
-import textosData from "../../api/sobreNosotros/SobreNosotros.json"
+import textosData from "@/api/sobreNosotros/us.json"
 
 const fadeIn = {
   hidden: { opacity: 0 },
